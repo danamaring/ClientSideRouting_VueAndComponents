@@ -14,3 +14,18 @@ a:visited {
 a:hover {
     color: yellowgreen;
 }
+
+label {
+    display: block;
+    margin-top: 20px;
+}
+
+input[type="submit"] {
+    display: block;
+    margin-top: 30px;
+    background-color: violet;
+    color: white;
+    border: transparent;
+    padding: 9px;
+    cursor: pointer;
+}
