@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: violet;
+}
+
+a:visited {
+    color: violet;
+}
+
+a:hover {
+    color: yellowgreen;
+}
